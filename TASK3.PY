@@ -1,4 +1,4 @@
-def nohfdhjfdjdf():
+def fdjdf():
     X = int(input("Введите Число X "))
     Y = int(input("Введите Число Y "))
 
@@ -14,4 +14,4 @@ def nohfdhjfdjdf():
     if X > 0 and Y < 0:
         print ("IV")
 
-nohfdhjfdjdf()
+fdjdf()
